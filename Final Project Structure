@@ -1,0 +1,18 @@
+
+Titanic-EDA/
+│
+├── data/
+│     └── titanic.csv
+│
+├── src/
+│     └── eda.py
+│
+├── outputs/
+│     ├── age_distribution.png
+│     ├── survival_count.png
+│     ├── survival_gender.png
+│     ├── survival_class.png
+│     └── heatmap.png
+│
+├── requirements.txt
+├── README.md
